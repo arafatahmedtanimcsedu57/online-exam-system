@@ -1,0 +1,26 @@
+.instraction {
+  padding: 24px;
+  margin: 24px;
+  background-color: white;
+  border-radius: 8px;
+  border: 1px solid rgb(245, 245, 245);
+  height: 100%;
+}
+
+.steps-action {
+  margin-top: 24px;
+}
+.steps-content {
+  margin-top: 16px;
+  border: 1px dashed #e9e9e9;
+  border-radius: 6px;
+  background-color: #fafafa;
+  color: black;
+
+  min-height: 200px;
+  text-align: center;
+  padding-top: 60px;
+}
+.steps-current-instruction {
+  margin-top: 16px;
+}
